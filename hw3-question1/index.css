@@ -1,0 +1,30 @@
+.body{width:100% auto;
+ background-color: black; }
+
+.wrapper{margin: 0 auto;
+	justify-content: center;
+	width:40%;
+	display: inline-grid;
+	grid-template-columns:2;
+	position: relative;
+    width: 80%;
+  }
+#button1, #button2{ width: auto;
+ margin: 0 auto;
+	background-color: black;
+	border-radius:10px 10px;
+	font-family: verdana;
+	color: white;
+ 	font-size: 40px;
+
+	}
+
+ .box{;
+ 	justify-content: center;
+ 	width: 100%;}
+ 	
+
+
+#dynamic{margin-left: 50%;
+      
+  	}

@@ -1,0 +1,25 @@
+body{background-color: lightgrey}
+
+
+#wrapper{margin: 0 auto;
+	width: 40%;
+	border: 2px solid white;
+padding: 10px 10px;
+margin-top: 30%;
+background-color: red;
+border-radius: 25px;
+box-shadow: 10px 10px 10px 10px;
+}
+
+#box{margin: 0 auto;
+	width:37%;
+	font-family: verdana;
+	font-size: 4vw;
+	justify-content:;
+	text-align: center;
+	padding: 10px 10px;
+	background-color: pink;
+	border: 5px solid white;
+	border-radius: 25px;
+	box-shadow: 2px 2px 2px 2px;
+}
